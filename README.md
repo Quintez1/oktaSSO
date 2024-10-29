@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgur.com/T4OioAK.png" alt="OKTA logo"/>
+<img src="https://imgur.com/Yel6ma3.png" alt="OKTA logo"/>
 </p>
 
 <h1>Lab - Design and implement an SSO solution with Okta for a multi-application environment using OAuth and OIDC.
